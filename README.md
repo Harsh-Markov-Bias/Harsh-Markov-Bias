@@ -1,5 +1,5 @@
 # 💫 About Me:
-Performed exploratory data analysis on large-scale datasets, identifying key patterns and<br>insights that drove strategic business decisions for client projects.<br>Created interactive data visualizations and dashboards using JavaScript frameworks, enabling stakeholders<br>to make data-driven decisions faster.<br><br>Languages: Python, Java, JavaScript,<br>Frameworks: TensorFlow, PyTorch, scikit-learn, Keras, OpenCV , YOLO<br>Data Science: pandas, NumPy, matplotlib, seaborn, exploratory analysis<br>Databases: MySQL<br>Web & APIs: FastAPI, Spring Boot<br>Tools & Concepts: Git, Power BI, Data Structures & Algorithms
+Performed exploratory data analysis on large-scale datasets, identifying key patterns and<br>insights that drove strategic business decisions for client projects.<br>Created interactive data visualizations and dashboards using JavaScript frameworks, enabling stakeholders<br>to make data-driven decisions faster.<br>
 
 
 ## 🌐 Socials:
